@@ -1,7 +1,1 @@
-# React-SSR-WebApp
-## train-ticket
-初始化react项目:
-```bash
-npx create-react-app train-ticket
-```
-
+## react webapp 去哪儿网选票
